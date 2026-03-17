@@ -1,5 +1,6 @@
 # 💫 About Me:
-devops engineer | cloud engineer |
+devops engineer | cloud engineer | 👨‍💻 DevOps Engineer in progress 🚀 ☁️ AWS | Cloud Computing 🐳 Docker | Kubernetes 🔄 CI/CD (GitHub Actions, Jenkins) 🐧 Linux | Git | Bash
+
 
 
 ## 🌐 Socials:
